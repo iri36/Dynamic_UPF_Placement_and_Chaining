@@ -6,7 +6,7 @@ Article link:https://www.sciencedirect.com/science/article/pii/S1389128622002900
 
 This repository contains two folders (one for each solution):
 - ILP: Code of the exact solution.
-- DPC-UPCR: Heuristic algorithm (PENDING)
+- DPC-UPCR: Heuristic algorithm
 
 If you use this software in your work, please cite it as [1] (see CITATION.cff).
 
