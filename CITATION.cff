@@ -1,0 +1,22 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Leyva-Pupo"
+    given-names: "Irian"
+    orcid: "https://orcid.org/0000-0001-6356-5840"
+  - family-names: "Cervelló-Pastor"
+    given-names: "Cristina"
+    orcid: "https://orcid.org/0000-0002-8056-0774"
+  - family-names: "Anagnostopoulos"
+    given-names: "Christos"
+  - family-names: "Pezaros"
+    given-names: " Dimitrios P."
+  title: "Dynamic UPF placement and chaining reconfiguration in 5G networks"
+  doi: "https://doi.org/10.1016/j.comnet.2022.109200"
+  journal: "Computer Networks"
+  volume: 215
+  month: 10
+  year: 2022
