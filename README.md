@@ -11,4 +11,4 @@ This repository contains two folders (one for each solution):
 If you use this software in your work, please cite it as [1] (see CITATION.cff).
 
 References:
-[1] Leyva-Pupo I, Cervelló-Pastor C, Anagnostopoulos C, Pezaros DP. Dynamic UPF placement and chaining reconfiguration in 5G networks. Computer Networks. 2022 Oct 9;215:109200.
+[1] Leyva-Pupo I, Cervelló-Pastor C, Anagnostopoulos C, Pezaros DP, "Dynamic UPF placement and chaining reconfiguration in 5G networks," Computer Networks. 2022 Oct 9;215:109200.
